@@ -9,37 +9,37 @@ importers:
   .:
     dependencies:
       '@angular/animations':
-        specifier: ^18.0.0
+        specifier: ^18.0.1
         version: 18.0.1(@angular/core@18.0.1(rxjs@7.8.1)(zone.js@0.14.6))
       '@angular/common':
-        specifier: ^18.0.0
+        specifier: ^18.0.1
         version: 18.0.1(@angular/core@18.0.1(rxjs@7.8.1)(zone.js@0.14.6))(rxjs@7.8.1)
       '@angular/compiler':
-        specifier: ^18.0.0
+        specifier: ^18.0.1
         version: 18.0.1(@angular/core@18.0.1(rxjs@7.8.1)(zone.js@0.14.6))
       '@angular/core':
-        specifier: ^18.0.0
+        specifier: ^18.0.1
         version: 18.0.1(rxjs@7.8.1)(zone.js@0.14.6)
       '@angular/forms':
-        specifier: ^18.0.0
+        specifier: ^18.0.1
         version: 18.0.1(@angular/common@18.0.1(@angular/core@18.0.1(rxjs@7.8.1)(zone.js@0.14.6))(rxjs@7.8.1))(@angular/core@18.0.1(rxjs@7.8.1)(zone.js@0.14.6))(@angular/platform-browser@18.0.1(@angular/animations@18.0.1(@angular/core@18.0.1(rxjs@7.8.1)(zone.js@0.14.6)))(@angular/common@18.0.1(@angular/core@18.0.1(rxjs@7.8.1)(zone.js@0.14.6))(rxjs@7.8.1))(@angular/core@18.0.1(rxjs@7.8.1)(zone.js@0.14.6)))(rxjs@7.8.1)
       '@angular/platform-browser':
-        specifier: ^18.0.0
+        specifier: ^18.0.1
         version: 18.0.1(@angular/animations@18.0.1(@angular/core@18.0.1(rxjs@7.8.1)(zone.js@0.14.6)))(@angular/common@18.0.1(@angular/core@18.0.1(rxjs@7.8.1)(zone.js@0.14.6))(rxjs@7.8.1))(@angular/core@18.0.1(rxjs@7.8.1)(zone.js@0.14.6))
       '@angular/platform-browser-dynamic':
-        specifier: ^18.0.0
+        specifier: ^18.0.1
         version: 18.0.1(@angular/common@18.0.1(@angular/core@18.0.1(rxjs@7.8.1)(zone.js@0.14.6))(rxjs@7.8.1))(@angular/compiler@18.0.1(@angular/core@18.0.1(rxjs@7.8.1)(zone.js@0.14.6)))(@angular/core@18.0.1(rxjs@7.8.1)(zone.js@0.14.6))(@angular/platform-browser@18.0.1(@angular/animations@18.0.1(@angular/core@18.0.1(rxjs@7.8.1)(zone.js@0.14.6)))(@angular/common@18.0.1(@angular/core@18.0.1(rxjs@7.8.1)(zone.js@0.14.6))(rxjs@7.8.1))(@angular/core@18.0.1(rxjs@7.8.1)(zone.js@0.14.6)))
       '@angular/router':
-        specifier: ^18.0.0
+        specifier: ^18.0.1
         version: 18.0.1(@angular/common@18.0.1(@angular/core@18.0.1(rxjs@7.8.1)(zone.js@0.14.6))(rxjs@7.8.1))(@angular/core@18.0.1(rxjs@7.8.1)(zone.js@0.14.6))(@angular/platform-browser@18.0.1(@angular/animations@18.0.1(@angular/core@18.0.1(rxjs@7.8.1)(zone.js@0.14.6)))(@angular/common@18.0.1(@angular/core@18.0.1(rxjs@7.8.1)(zone.js@0.14.6))(rxjs@7.8.1))(@angular/core@18.0.1(rxjs@7.8.1)(zone.js@0.14.6)))(rxjs@7.8.1)
       rxjs:
-        specifier: ~7.8.0
+        specifier: ~7.8.1
         version: 7.8.1
       tslib:
-        specifier: ^2.3.0
+        specifier: ^2.6.2
         version: 2.6.2
       zone.js:
-        specifier: ~0.14.3
+        specifier: ~0.14.6
         version: 0.14.6
     devDependencies:
       '@angular-devkit/build-angular':
@@ -49,22 +49,22 @@ importers:
         specifier: ^18.0.2
         version: 18.0.2(chokidar@3.6.0)
       '@angular/compiler-cli':
-        specifier: ^18.0.0
+        specifier: ^18.0.1
         version: 18.0.1(@angular/compiler@18.0.1(@angular/core@18.0.1(rxjs@7.8.1)(zone.js@0.14.6)))(typescript@5.4.5)
       '@types/jasmine':
-        specifier: ~5.1.0
+        specifier: ~5.1.4
         version: 5.1.4
       jasmine-core:
-        specifier: ~5.1.0
+        specifier: ~5.1.2
         version: 5.1.2
       karma:
-        specifier: ~6.4.0
+        specifier: ~6.4.3
         version: 6.4.3
       karma-chrome-launcher:
         specifier: ~3.2.0
         version: 3.2.0
       karma-coverage:
-        specifier: ~2.2.0
+        specifier: ~2.2.1
         version: 2.2.1
       karma-jasmine:
         specifier: ~5.1.0
@@ -73,7 +73,7 @@ importers:
         specifier: ~2.1.0
         version: 2.1.0(jasmine-core@5.1.2)(karma-jasmine@5.1.0(karma@6.4.3))(karma@6.4.3)
       typescript:
-        specifier: ~5.4.2
+        specifier: ~5.4.5
         version: 5.4.5
 
 packages:

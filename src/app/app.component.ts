@@ -6,9 +6,8 @@ import { MatSlideToggleModule } from '@angular/material/slide-toggle';
   selector: 'app-root',
   standalone: true,
   imports: [RouterOutlet, MatSlideToggleModule],
-  templateUrl: './app.component.html',
-  styleUrl: './app.component.scss'
+  template: `<router-outlet />`,
 })
 export class AppComponent {
-  title = 'hello-ng';
+  title = 'admin-starter-with-ng';
 }

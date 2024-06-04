@@ -17,7 +17,7 @@ describe('AppComponent', () => {
   it(`should have the 'hello-ng' title`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
-    expect(app.title).toEqual('hello-ng');
+    expect(app.title).toEqual('admin-starter-with-ng');
   });
 
   it('should render title', () => {

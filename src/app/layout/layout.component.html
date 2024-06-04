@@ -1,0 +1,18 @@
+<div class="min-h-screen min-w-[var(--min-width)]">
+  <header class="flex justify-between shadow-md h-[var(--header-height)] items-center">
+    <div>
+      admin starter with ng
+    </div>
+    <div>
+      logout
+    </div>
+  </header>
+  <main class="flex justify-between">
+    <aside class="w-[var(--aside-width)] shadow-md h-[calc(100vh-var(--header-height))]">
+      <div>menu</div>
+    </aside>
+    <div class="flex-1 h-[calc(100vh-var(--header-height))] overflow-y-auto h-1800px">
+      <router-outlet/>
+    </div>
+  </main>
+</div>
